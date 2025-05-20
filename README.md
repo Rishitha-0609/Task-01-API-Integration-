@@ -10,7 +10,7 @@ A simple weather forecast application built with **HTML**, **CSS**, and **JavaSc
 - Dynamic weather icons based on conditions (e.g., rain, clouds, clear, etc.).
 - Error handling for invalid city names or network issues.
 - Responsive and modern UI.
-## No, you do not need to install any dependencies 
+## you no need to install any dependencies 
 
 ✅ It uses only HTML, CSS, and JavaScript (Vanilla JS).
 
@@ -20,7 +20,7 @@ A simple weather forecast application built with **HTML**, **CSS**, and **JavaSc
 
 ✅ No build tools (like Webpack, Node.js, or React) are used.
 
-## 🔑 How to Get Your OpenWeatherMap API Key
+## 🔑 To Get Your OpenWeatherMap API Key
 Go to OpenWeatherMap Website
 Visit: https://openweathermap.org/api
 
@@ -50,6 +50,9 @@ Copy the generated key.
 Paste it into your JavaScript file, replacing this line:
 
 const apiKey = "your_api_key_here";
+
+## Images download from the following link
+https://drive.google.com/file/d/1RgSeYljIBzh-ZHIzEFwWmfGIDEMF1bHr/view
 
 ## Steps to clone Your Project to GitHub
 1. Create a New GitHub Repository
