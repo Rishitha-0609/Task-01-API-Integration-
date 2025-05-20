@@ -51,6 +51,8 @@ Paste it into your JavaScript file, replacing this line:
 
 const apiKey = "your_api_key_here";
 
+note: i used default key for this project 
+
 ## Images download from the following link
 https://drive.google.com/file/d/1RgSeYljIBzh-ZHIzEFwWmfGIDEMF1bHr/view
 
